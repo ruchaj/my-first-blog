@@ -25,7 +25,7 @@ SECRET_KEY = 'l+wq@8u)7uq$a%=#)r=%4qqt=q^pahuh&3v%1aiqu@$vfdz*&w'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', 'ruchaj.pythonanywhere.com']
 
 
 # Application definition
@@ -105,7 +105,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'America/Dawson'
 
 USE_I18N = True
 
