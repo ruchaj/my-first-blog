@@ -105,7 +105,11 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 
+<<<<<<< HEAD
 TIME_ZONE = 'America/Los_Angeles'
+=======
+TIME_ZONE = 'America/Dawson'
+>>>>>>> 4288372e8bb8d649ba0be7cc2a1091d0aecd2c44
 
 USE_I18N = True
 
